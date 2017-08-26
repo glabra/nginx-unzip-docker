@@ -1,2 +1,3 @@
 # nginx-unzip-docker
-nginx-unzip-module docker container
+Alpine linux based nginx with forked [unzip-module](https://github.com/glabra/nginx-unzip-module)
+
